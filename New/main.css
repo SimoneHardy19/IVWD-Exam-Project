@@ -1,0 +1,541 @@
+body{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width: auto;
+}
+
+li{
+   decoration: none;
+    display: inline;
+    padding-right: 100px;
+    padding-top: 0xp;
+    color: black;
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 15px;
+    margin-top: -50px;
+    font-weight: bold;
+}
+.nav-holder{
+  text-decoration: none;
+}
+
+.nav-holder{
+    width: 1502px;
+    height: 60px;
+    background-color: white;
+    padding: 10px;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+
+ul{
+  margin-left: 350px;
+    text-decoration: none;
+}
+
+.dropbtn {
+  decoration: none;
+  background-color: white;
+  color: black;
+  padding: 10px;
+  font-size: 15px;
+  border-color: #CD0509;
+  font-family: 'Varela Round', sans-serif;
+  font-weight: bold;
+  border-radius: 15px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  font-family: 'Varela Round', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.dropdown-content a:hover {background-color: #B51A1F;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropdown-content {background-color:#CD0509;}
+
+.dropdown:hover .dropbtn {background-color: #B51A1F;}
+
+#block1{
+  margin-top: -80px;
+  margin-left: -750px;
+}
+
+#deco1{
+  margin-top: -800px;
+  margin-left: 50px;
+}
+
+#logo{
+  margin-top: -885px;
+  margin-left: 30px;
+}
+
+.block2{
+  width: 1540px;
+  margin-left: -10px;
+  margin-top: 20px;
+}
+
+#contactme{
+  font-family: 'Varela Round', sans-serif;
+  font-weight: bolder;
+  font-size: 35px;
+  margin-left: 115px;
+  color: white;
+  margin-top: -120px;
+}
+
+h2{
+  font-family: 'Varela Round', sans-serif;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+h3{
+  font-family: 'Varela Round', sans-serif;
+  font-size: 15px;
+}
+
+#inquiries{
+  font-family: 'Varela Round', sans-serif;
+  font-size: 25px;
+  margin-top: 140px;
+  margin-left: 115px;
+}
+
+#inquiries2{
+  font-family: 'Varela Round', sans-serif;
+  font-size: 15px;
+  margin-top: 40px;
+  margin-left: 115px;
+}
+
+#fname{
+  width: 600px;
+  padding: 10px;
+  border-radius: 20px;
+  border-color: #B51A1F;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#lname{
+  width: 600px;
+  padding: 10px;
+  border-radius: 20px;
+  border-color: #B51A1F;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#email{
+  font-family: 'Varela Round', sans-serif;
+  width: 600px;
+  padding: 10px;
+  border-radius: 20px;
+  border-color: #B51A1F;
+}
+
+#subject{
+  width: 600px;
+  padding: 10px;
+  border-radius: 20px;
+  border-color: #B51A1F;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#summary{
+  width: 600px;
+  padding: 10px;
+  border-radius: 20px;
+  border-color: #B51A1F;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#submit{
+  padding: 10px;
+  border-color: black;
+  font-size: 16px;
+  background-color: #CD0509;
+  font-family: 'Varela Round', sans-serif;
+  border-radius: 18px;
+  font-weight: bold;
+  margin-left: 555px;
+}
+
+label{
+  font-family: 'Varela Round', sans-serif;
+  font-weight: bold;
+}
+
+#form{
+  margin-left: 660px;
+  margin-top: -187px;
+}
+
+#logo2{
+  margin-left: 30px;
+  margin-top: -985px;
+}
+
+#logo3{
+  margin-left: 30px;
+  margin-top: -58px;
+}
+
+#blockme{
+  margin-left: -10px;
+  margin-top: 100px;
+  padding-top: 50px;
+}
+
+#block3{
+  width: 1522px;
+  height: 240px;
+  background-color: black;
+  margin-top: 650px;
+  margin-left: -10px
+}
+
+#aboutme{
+  margin-left: 115px;
+  padding-top: 50px;
+  color: white
+}
+
+#information{
+  margin-left: 400px;
+  margin-top: -45px;
+  color: white
+}
+
+#block4{
+  width: 1522px;
+  height: 350px;
+  background-color: white;
+  margin-left: -10px;
+  margin-top: -40px;
+}
+
+.aboutme{
+  margin-left: 115px;
+  padding-top: 50px;
+}
+
+.information{
+  margin-left: 400px;
+  margin-top: -45px;
+}
+
+#messme{
+  margin-left: 400px;
+  color: black;
+  margin-top: 40px;
+}
+
+#contactbut{
+  decoration: none;
+  padding: 10px;
+  font-size: 16px;
+  border-color: black;
+  background-color: #CD0509;
+  font-family: 'Varela Round', sans-serif;
+  border-radius: 18px;
+  font-weight: bold;
+  color: black;
+  margin-left: 400px;
+  margin-top: 5px;
+}
+
+#deco2{
+  margin-left: 640px;
+  margin-top: -75px;
+}
+
+#mycourse{
+  font-size: 35px;
+  margin-left: 170px;
+  margin-top: -540px;
+  color: black;
+  font-family: 'Varela Round', sans-serif;
+  font-weight: bolder;
+}
+
+#hirebut{
+  decoration: none;
+  padding: 10px;
+  font-size: 16px;
+  border-color: black;
+  background-color: #CD0509;
+  font-family: 'Varela Round', sans-serif;
+  border-radius: 18px;
+  font-weight: bold;
+  color: black;
+  margin-left: 170px;
+}
+
+#services{
+  width: 1540px;
+  margin-left: -10px;
+  margin-top: 200px;
+}
+
+.services{
+  padding-right: 300px;
+  margin-top: 50px;
+}
+
+.service{
+  width: auto;
+  height: 100px;
+  margin-left: -90px;
+  margin-top: 70px;
+}
+
+.webd{
+  margin-top: 50px;
+  margin-left: 275px;
+}
+
+.digim{
+  margin-left: 645px;
+  margin-top: -50px;
+}
+
+.brandd{
+  margin-left: 1075px;
+    margin-top: -50px;
+}
+
+#footer{
+  background-color: black;
+  width: 1540px;
+  margin-left: -20px;
+  height: 400px;
+  margin-top: 70px;
+}
+
+#flogo{
+  margin-left: 120px;
+  margin-top: 70px;
+}
+
+#finfo{
+  margin-left: 300px;
+  margin-top: -44px;
+  color: white;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#wwu{
+  decoration: none;
+  margin-left: 300px;
+  color: white;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 15px;
+  margin-top: 20px;
+}
+
+#fcontact{
+  margin-left: 300px;
+  color: white;
+  font-family: 'Varela Round', sans-serif;
+  margin-top: 30px;
+}
+
+#box4{
+  margin-left: 300px;
+  background-color: white;
+  width: 200px;
+  height: 2px;
+  margin-top: -5px;
+}
+
+#fnum{
+  margin-left: 300px;
+  color: white;
+  font-family: 'Varela Round', sans-serif;
+  margin-top: 20px;
+}
+
+#tandc{
+  decoration:underline;
+  margin-left: 300px;
+  color: white;
+  font-family: 'Varela Round', sans-serif;
+  margin-top: 40px;
+  font-size: 12px;
+  font-weight: lighter;
+}
+
+#fsocial{
+  margin-left: 1000px;
+  color: white;
+  font-family: 'Varela Round', sans-serif;
+  margin-top: 30px;
+  margin-top: -170px;
+}
+
+#box5{
+  margin-left: 1000px;
+  background-color: white;
+  width: 200px;
+  height: 2px;
+  margin-top: -5px;
+}
+
+#flogos{
+  margin-left: 1000px;
+  margin-top: 15px;
+}
+
+#flogo2{
+  margin-left: 15px;
+}
+
+#flogo3{
+  margin-left: 15px;
+}
+
+#contactfoot{
+  margin-top: 1000px;
+}
+
+#aboutfoot{
+  margin-top: -70px;
+}
+
+.ivbd{
+  width: 1540px;
+  margin-left: -10px;
+  margin-top: 20px;
+}
+
+#gallery1{
+  width: auto;
+  height: auto;
+  margin-top: 50px;
+}
+
+#card2{
+  margin-top: -528px;
+  margin-left: 400px;
+}
+
+#card3{
+  margin-top: -533px;
+  margin-left: 765px;
+}
+
+#card4{
+  margin-top: -530px;
+  margin-left: 1198px;
+}
+
+#gallery2{
+  width: auto;
+  height: auto;
+  margin-top: 30px;
+}
+
+#card6{
+  margin-top: -391px;
+  margin-left: 615px;
+}
+
+#card7{
+  margin-top: -394px;
+  margin-left: 1225px;
+}
+
+#gallery3{
+  width: auto;
+  height: auto;
+  margin-top: 50px;
+}
+
+.ivGC{
+  width: 1540px;
+  margin-left: -10px;
+  margin-top: 20px;
+}
+
+#card9{
+  margin-top: -567px;
+  margin-left: 940px;
+}
+
+#gallery4{
+  width: auto;
+  height: auto;
+  margin-top: 30px;
+}
+
+#card11{
+  margin-top: -604px;
+  margin-left: 490px;
+}
+
+#card12{
+  margin-top: -604px;
+  margin-left: 1075px;
+}
+
+.ivvt{
+  width: 1540px;
+  margin-left: -10px;
+  margin-top: 20px;
+}
+
+#gallery6{
+  width: auto;
+  height: auto;
+  margin-top: 30px;
+}
+
+#gallery5{
+  width: auto;
+  height: auto;
+  margin-top: 50px;
+}
+
+#card14{
+  margin-top: -354px;
+  margin-left: 526px;
+}
+
+#card15{
+  margin-top: -354px;
+  margin-left: 1036px;
+}
+
+#card17{
+  margin-top: -354px;
+  margin-left: 515px;
+}
+
+#card18{
+  margin-top: -354px;
+  margin-left: 1036px;
+}
